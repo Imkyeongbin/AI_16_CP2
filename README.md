@@ -84,3 +84,5 @@
         {'result_message' : '원본 이미지에서 얼굴이 검출되지 않았습니다.', 'result_code' : -1 }
 
     ```
+
+- requirements.txt는 conda 환경 기준입니다. conda로 환경 설정하고 설치 이후 사용하는 것이 무난합니다.
